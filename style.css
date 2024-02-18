@@ -1,0 +1,53 @@
+* {
+    margin: 0%;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.upslp {
+    margin: 15px;
+    position: fixed;
+}
+
+h1 {
+    font-family: "Nunito", sans-serif;
+    
+    }
+h2 {
+    font-family: "Nunito", sans-serif;
+    
+    }    
+h4 {
+    font-family: "Nunito", sans-serif;
+    
+    }
+
+.listaM {
+        font-family: "Nunito", sans-serif;
+        font-size: larger;
+        
+ }   
+
+.cc
+{
+    font-family: "Nunito", sans-serif;
+    font-size: large;
+} 
+
+.pdfview {
+    margin: auto;
+    display: block;
+    width: 850px;
+    height: 100vh;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+    box-shadow: color(rgb(153, 153, 153));
+}
+
+.imagenes {
+    margin: auto;
+    display: block;
+    width: 850px;
+    height: 100vh;
+}

@@ -1,0 +1,34 @@
+
+body{
+    background-color: rgb(219, 248, 248);
+}
+
+.container{
+    background-color: rgb(168, 250, 195);
+}
+
+a{
+    color: darkmagenta;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p{
+    color: rgb(0, 81, 255);
+}
+
+h2{
+    color: rgb(0, 17, 255);
+    font-weight: bold;
+}
+
+.container2{
+    background-color: rgb(168, 250, 195);
+}
+h4{
+    color: rgb(112, 214, 112);
+}
+
+.titulo1{
+    font-weight: bold;
+}
